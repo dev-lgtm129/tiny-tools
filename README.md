@@ -1,7 +1,7 @@
 # tiny-tools
 ## Overview
 This repo contains variety of beginner friendly python tools, basic utilities and games that I made to sharpen and enhance my coding skils.
-Each project here reperesnts a step forward in my coding journey.
+Each project here represents a step forward in my coding journey.
 This is my first repo which may contain a lot of mistakes. If you notice any issues, bugs, or areas where the code can be improved, I’d genuinely appreciate your feedback.  
 Feel free to open an issue, suggest changes, or just leave a comment — every bit of guidance helps me learn and grow.
 
@@ -11,14 +11,14 @@ Feel free to open an issue, suggest changes, or just leave a comment — every b
 The main purposes of this repo are:
 - Practice my coding skiils
 - Solve small problems that are often overlooked
-- Collaborate and imporove my pojects
+- Collaborate and improve my projects
 
 ---
 
 ## Projects
 
-  ### 1. Wadrobe randomizer
-  Too confused to pick an outfit? I got you! Pick an outfit randomly from your wadrobe.
+  ### 1. Wardrobe randomizer
+  Too confused to pick an outfit? I got you! Pick an outfit randomly from your wardrobe.
 
   ### 2. Password generator
   Generate a strong password of desired length.
