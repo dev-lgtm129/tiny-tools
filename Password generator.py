@@ -6,7 +6,7 @@ print(heading)
 #creating list of each type
 lowercase = list("abcdefghijklmnopqrstuvwxyz")
 uppercase = list("ABCDEFGHIJKLMONPQRSTUVWXYZ")
-symbols = list("!@#$%*^&?")
+symbols = list("!@#$%*^&?[](){}")
 numbers = list("1234567890")
 numbers_2 = list("345")
 y = int(random.choice(numbers_2))
